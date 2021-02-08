@@ -1,0 +1,115 @@
+Your program started running......................
+date_updated is Sun_07_Feb_2021_11_29_43_PM_EET
+updated_intermediate dir name is files_Sun_07_Feb_2021_11_12_47_PM_EET.tar
+exer/files_Sun_07_Feb_2021_11_12_47_PM_EET.tar is a file
+files_Sun_07_Feb_2021_11_12_47_PM_EET.tar
+updated_intermediate dir name is files_Sun_07_Feb_2021_11_13_14_PM_EET.tar
+exer/files_Sun_07_Feb_2021_11_13_14_PM_EET.tar is a file
+files_Sun_07_Feb_2021_11_13_14_PM_EET.tar
+updated_intermediate dir name is files_Sun_07_Feb_2021_11_14_31_PM_EET.tar.gz
+exer/files_Sun_07_Feb_2021_11_14_31_PM_EET.tar.gz is a file
+files_Sun_07_Feb_2021_11_14_31_PM_EET.tar.gz
+updated_intermediate dir name is files_Sun_07_Feb_2021_11_15_15_PM_EET.tar.gz
+exer/files_Sun_07_Feb_2021_11_15_15_PM_EET.tar.gz is a file
+files_Sun_07_Feb_2021_11_15_15_PM_EET.tar.gz
+updated_intermediate dir name is files_Sun_07_Feb_2021_11_16_25_PM_EET.tar.gz
+exer/files_Sun_07_Feb_2021_11_16_25_PM_EET.tar.gz is a file
+files_Sun_07_Feb_2021_11_16_25_PM_EET.tar.gz
+updated_intermediate dir name is files_Sun_07_Feb_2021_11_16_52_PM_EET.tar.gz
+exer/files_Sun_07_Feb_2021_11_16_52_PM_EET.tar.gz is a file
+files_Sun_07_Feb_2021_11_16_52_PM_EET.tar.gz
+updated_intermediate dir name is files_Sun_07_Feb_2021_11_26_26_PM_EET.tar
+exer/files_Sun_07_Feb_2021_11_26_26_PM_EET.tar is a file
+files_Sun_07_Feb_2021_11_26_26_PM_EET.tar
+updated_intermediate dir name is files_Sun_07_Feb_2021_11_27_45_PM_EET.tar
+exer/files_Sun_07_Feb_2021_11_27_45_PM_EET.tar is a file
+files_Sun_07_Feb_2021_11_27_45_PM_EET.tar
+updated_intermediate dir name is files_Sun_07_Feb_2021_11_29_18_PM_EET.tar
+exer/files_Sun_07_Feb_2021_11_29_18_PM_EET.tar is a file
+files_Sun_07_Feb_2021_11_29_18_PM_EET.tar
+updated_intermediate dir name is main.sh
+exer/main.sh is a file
+main.sh
+updated_intermediate dir name is makedirs.sh
+exer/makedirs.sh is a file
+makedirs.sh
+updated_intermediate dir name is tar1
+exer/tar1 is a directory
+exer/tar1/
+exer/tar1/tar1.cpp
+your third param is another_dir/Sun_07_Feb_2021_11_29_43_PM_EET.tar
+your naming is tar1_Sun_07_Feb_2021_11_29_43_PM_EET.tgz.tar.gz
+your naming is exer/tar1_Sun_07_Feb_2021_11_29_43_PM_EET.tgz.tar.gz
+tar1_Sun_07_Feb_2021_11_29_43_PM_EET.tgz.tar.gz.gpg
+updated_intermediate dir name is tar2
+exer/tar2 is a directory
+exer/tar2/
+exer/tar2/tar2.cpp
+your third param is another_dir/Sun_07_Feb_2021_11_29_43_PM_EET.tar
+your naming is tar2_Sun_07_Feb_2021_11_29_43_PM_EET.tgz.tar.gz
+your naming is exer/tar2_Sun_07_Feb_2021_11_29_43_PM_EET.tgz.tar.gz
+tar2_Sun_07_Feb_2021_11_29_43_PM_EET.tgz.tar.gz.gpg
+updated_intermediate dir name is test10
+exer/test10 is a directory
+exer/test10/
+exer/test10/test10.cpp
+your third param is another_dir/Sun_07_Feb_2021_11_29_43_PM_EET.tar
+your naming is test10_Sun_07_Feb_2021_11_29_43_PM_EET.tgz.tar.gz
+your naming is exer/test10_Sun_07_Feb_2021_11_29_43_PM_EET.tgz.tar.gz
+test10_Sun_07_Feb_2021_11_29_43_PM_EET.tgz.tar.gz.gpg
+updated_intermediate dir name is test3
+exer/test3 is a directory
+exer/test3/
+exer/test3/test3.cpp
+your third param is another_dir/Sun_07_Feb_2021_11_29_43_PM_EET.tar
+your naming is test3_Sun_07_Feb_2021_11_29_43_PM_EET.tgz.tar.gz
+your naming is exer/test3_Sun_07_Feb_2021_11_29_43_PM_EET.tgz.tar.gz
+test3_Sun_07_Feb_2021_11_29_43_PM_EET.tgz.tar.gz.gpg
+updated_intermediate dir name is test4
+exer/test4 is a directory
+exer/test4/
+exer/test4/test4.cpp
+your third param is another_dir/Sun_07_Feb_2021_11_29_43_PM_EET.tar
+your naming is test4_Sun_07_Feb_2021_11_29_43_PM_EET.tgz.tar.gz
+your naming is exer/test4_Sun_07_Feb_2021_11_29_43_PM_EET.tgz.tar.gz
+test4_Sun_07_Feb_2021_11_29_43_PM_EET.tgz.tar.gz.gpg
+updated_intermediate dir name is test5
+exer/test5 is a directory
+exer/test5/
+exer/test5/test5.cpp
+your third param is another_dir/Sun_07_Feb_2021_11_29_43_PM_EET.tar
+your naming is test5_Sun_07_Feb_2021_11_29_43_PM_EET.tgz.tar.gz
+your naming is exer/test5_Sun_07_Feb_2021_11_29_43_PM_EET.tgz.tar.gz
+test5_Sun_07_Feb_2021_11_29_43_PM_EET.tgz.tar.gz.gpg
+updated_intermediate dir name is test6
+exer/test6 is a directory
+exer/test6/
+exer/test6/test6.cpp
+your third param is another_dir/Sun_07_Feb_2021_11_29_43_PM_EET.tar
+your naming is test6_Sun_07_Feb_2021_11_29_43_PM_EET.tgz.tar.gz
+your naming is exer/test6_Sun_07_Feb_2021_11_29_43_PM_EET.tgz.tar.gz
+test6_Sun_07_Feb_2021_11_29_43_PM_EET.tgz.tar.gz.gpg
+updated_intermediate dir name is test7
+exer/test7 is a directory
+exer/test7/
+exer/test7/test7.cpp
+your third param is another_dir/Sun_07_Feb_2021_11_29_43_PM_EET.tar
+your naming is test7_Sun_07_Feb_2021_11_29_43_PM_EET.tgz.tar.gz
+your naming is exer/test7_Sun_07_Feb_2021_11_29_43_PM_EET.tgz.tar.gz
+test7_Sun_07_Feb_2021_11_29_43_PM_EET.tgz.tar.gz.gpg
+updated_intermediate dir name is test8
+exer/test8 is a directory
+exer/test8/
+exer/test8/test8.cpp
+your third param is another_dir/Sun_07_Feb_2021_11_29_43_PM_EET.tar
+your naming is test8_Sun_07_Feb_2021_11_29_43_PM_EET.tgz.tar.gz
+your naming is exer/test8_Sun_07_Feb_2021_11_29_43_PM_EET.tgz.tar.gz
+test8_Sun_07_Feb_2021_11_29_43_PM_EET.tgz.tar.gz.gpg
+updated_intermediate dir name is test9
+exer/test9 is a directory
+exer/test9/
+exer/test9/test9.cpp
+your third param is another_dir/Sun_07_Feb_2021_11_29_43_PM_EET.tar
+your naming is test9_Sun_07_Feb_2021_11_29_43_PM_EET.tgz.tar.gz
+your naming is exer/test9_Sun_07_Feb_2021_11_29_43_PM_EET.tgz.tar.gz
+test9_Sun_07_Feb_2021_11_29_43_PM_EET.tgz.tar.gz.gpg

@@ -1,0 +1,98 @@
+Your program started running......................
+parameter1 is exer
+parameter2 is another_dir
+date_updated is Tue_09_Feb_2021_12_48_01_AM_EET
+
+updated_intermediate dir name is main.sh
+exer/main.sh is a file
+another_dir is the fifth param
+main.sh
+updated_intermediate dir name is makedirs.sh
+exer/makedirs.sh is a file
+another_dir is the fifth param
+makedirs.sh
+updated_intermediate dir name is tar1
+exer/tar1 is a directory
+exer/tar1/
+exer/tar1/tar1.cpp
+your third param is another_dir/Tue_09_Feb_2021_12_48_01_AM_EET.tar
+your naming is tar1_Tue_09_Feb_2021_12_48_01_AM_EET.tgz.tar.gz
+your naming is exer/tar1_Tue_09_Feb_2021_12_48_01_AM_EET.tgz.tar.gz
+tar1_Tue_09_Feb_2021_12_48_01_AM_EET.tgz.tar.gz.gpg
+updated_intermediate dir name is tar2
+exer/tar2 is a directory
+exer/tar2/
+exer/tar2/tar2.cpp
+your third param is another_dir/Tue_09_Feb_2021_12_48_01_AM_EET.tar
+your naming is tar2_Tue_09_Feb_2021_12_48_01_AM_EET.tgz.tar.gz
+your naming is exer/tar2_Tue_09_Feb_2021_12_48_01_AM_EET.tgz.tar.gz
+tar2_Tue_09_Feb_2021_12_48_01_AM_EET.tgz.tar.gz.gpg
+updated_intermediate dir name is test10
+exer/test10 is a directory
+exer/test10/
+exer/test10/test10.cpp
+your third param is another_dir/Tue_09_Feb_2021_12_48_01_AM_EET.tar
+your naming is test10_Tue_09_Feb_2021_12_48_01_AM_EET.tgz.tar.gz
+your naming is exer/test10_Tue_09_Feb_2021_12_48_01_AM_EET.tgz.tar.gz
+test10_Tue_09_Feb_2021_12_48_01_AM_EET.tgz.tar.gz.gpg
+updated_intermediate dir name is test3
+exer/test3 is a directory
+exer/test3/
+exer/test3/test3.cpp
+your third param is another_dir/Tue_09_Feb_2021_12_48_01_AM_EET.tar
+your naming is test3_Tue_09_Feb_2021_12_48_01_AM_EET.tgz.tar.gz
+your naming is exer/test3_Tue_09_Feb_2021_12_48_01_AM_EET.tgz.tar.gz
+test3_Tue_09_Feb_2021_12_48_01_AM_EET.tgz.tar.gz.gpg
+updated_intermediate dir name is test4
+exer/test4 is a directory
+exer/test4/
+exer/test4/test4.cpp
+your third param is another_dir/Tue_09_Feb_2021_12_48_01_AM_EET.tar
+your naming is test4_Tue_09_Feb_2021_12_48_01_AM_EET.tgz.tar.gz
+your naming is exer/test4_Tue_09_Feb_2021_12_48_01_AM_EET.tgz.tar.gz
+test4_Tue_09_Feb_2021_12_48_01_AM_EET.tgz.tar.gz.gpg
+updated_intermediate dir name is test5
+exer/test5 is a directory
+exer/test5/
+exer/test5/test5.cpp
+your third param is another_dir/Tue_09_Feb_2021_12_48_01_AM_EET.tar
+your naming is test5_Tue_09_Feb_2021_12_48_01_AM_EET.tgz.tar.gz
+your naming is exer/test5_Tue_09_Feb_2021_12_48_01_AM_EET.tgz.tar.gz
+test5_Tue_09_Feb_2021_12_48_01_AM_EET.tgz.tar.gz.gpg
+updated_intermediate dir name is test6
+exer/test6 is a directory
+exer/test6/
+exer/test6/test6.cpp
+your third param is another_dir/Tue_09_Feb_2021_12_48_01_AM_EET.tar
+your naming is test6_Tue_09_Feb_2021_12_48_01_AM_EET.tgz.tar.gz
+your naming is exer/test6_Tue_09_Feb_2021_12_48_01_AM_EET.tgz.tar.gz
+test6_Tue_09_Feb_2021_12_48_01_AM_EET.tgz.tar.gz.gpg
+updated_intermediate dir name is test7
+exer/test7 is a directory
+exer/test7/
+exer/test7/test7.cpp
+your third param is another_dir/Tue_09_Feb_2021_12_48_01_AM_EET.tar
+your naming is test7_Tue_09_Feb_2021_12_48_01_AM_EET.tgz.tar.gz
+your naming is exer/test7_Tue_09_Feb_2021_12_48_01_AM_EET.tgz.tar.gz
+test7_Tue_09_Feb_2021_12_48_01_AM_EET.tgz.tar.gz.gpg
+updated_intermediate dir name is test8
+exer/test8 is a directory
+exer/test8/
+exer/test8/test8.cpp
+your third param is another_dir/Tue_09_Feb_2021_12_48_01_AM_EET.tar
+your naming is test8_Tue_09_Feb_2021_12_48_01_AM_EET.tgz.tar.gz
+your naming is exer/test8_Tue_09_Feb_2021_12_48_01_AM_EET.tgz.tar.gz
+test8_Tue_09_Feb_2021_12_48_01_AM_EET.tgz.tar.gz.gpg
+updated_intermediate dir name is test9
+exer/test9 is a directory
+exer/test9/
+exer/test9/test9.cpp
+your third param is another_dir/Tue_09_Feb_2021_12_48_01_AM_EET.tar
+your naming is test9_Tue_09_Feb_2021_12_48_01_AM_EET.tgz.tar.gz
+your naming is exer/test9_Tue_09_Feb_2021_12_48_01_AM_EET.tgz.tar.gz
+test9_Tue_09_Feb_2021_12_48_01_AM_EET.tgz.tar.gz.gpg
+updated_intermediate dir name is Tue_09_Feb_2021_12_42_29_AM_EET.tar.gpg
+exer/Tue_09_Feb_2021_12_42_29_AM_EET.tar.gpg is a file
+another_dir is the fifth param
+Tue_09_Feb_2021_12_42_29_AM_EET.tar.gpg
+files_Tue_09_Feb_2021_12_48_01_AM_EET.tar.gz.gpg

@@ -1,0 +1,10 @@
+the function.sh file is about two main functions. 
+
+the first is to loop over the directories to back them up 
+it creates a tar file inside the backupto directory and sequentially build it using the update flag in the tar command. it builds it using the directories after they have been tarred, compressed and 
+encrypted one by one. then in the main backup.sh file, I tar, compress and encrypt the parent folder
+
+the second is to loop over the directories inside the backup folder to restore them back. 
+We start by decrypting them one by one and then uncompressing and untarring them to a directory specified by the user when running the restore script. 
+
+Then I configured the crontab file to make the backup script run every single hour 

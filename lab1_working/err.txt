@@ -1,0 +1,825 @@
+gpg: no valid OpenPGP data found.
+gpg: decrypt_message failed: Unknown system error
+mkdir: missing operand
+Try 'mkdir --help' for more information.
+tar: ../.tar: Cannot open: No such file or directory
+tar: Error is not recoverable: exiting now
+rm: cannot remove '.tar': No such file or directory
+function.sh: line 119: cd: temp: No such file or directory
+gpg: /bin: read error: Is a directory
+gpg: decrypt_message failed: Unknown system error
+tar (child): .tar.gz: Cannot open: No such file or directory
+tar (child): Error is not recoverable: exiting now
+tar: Child returned status 2
+tar: Error is not recoverable: exiting now
+rm: cannot remove '.tar.gz': No such file or directory
+rm: cannot remove '.tar.gz.gpg': No such file or directory
+gpg: /boot: read error: Is a directory
+gpg: decrypt_message failed: Unknown system error
+tar (child): .tar.gz: Cannot open: No such file or directory
+tar (child): Error is not recoverable: exiting now
+tar: Child returned status 2
+tar: Error is not recoverable: exiting now
+rm: cannot remove '.tar.gz': No such file or directory
+rm: cannot remove '.tar.gz.gpg': No such file or directory
+gpg: /dev: read error: Is a directory
+gpg: decrypt_message failed: Unknown system error
+tar (child): .tar.gz: Cannot open: No such file or directory
+tar (child): Error is not recoverable: exiting now
+tar: Child returned status 2
+tar: Error is not recoverable: exiting now
+rm: cannot remove '.tar.gz': No such file or directory
+rm: cannot remove '.tar.gz.gpg': No such file or directory
+gpg: /etc: read error: Is a directory
+gpg: decrypt_message failed: Unknown system error
+tar (child): .tar.gz: Cannot open: No such file or directory
+tar (child): Error is not recoverable: exiting now
+tar: Child returned status 2
+tar: Error is not recoverable: exiting now
+rm: cannot remove '.tar.gz': No such file or directory
+rm: cannot remove '.tar.gz.gpg': No such file or directory
+gpg: /home: read error: Is a directory
+gpg: decrypt_message failed: Unknown system error
+tar (child): .tar.gz: Cannot open: No such file or directory
+tar (child): Error is not recoverable: exiting now
+tar: Child returned status 2
+tar: Error is not recoverable: exiting now
+rm: cannot remove '.tar.gz': No such file or directory
+rm: cannot remove '.tar.gz.gpg': No such file or directory
+gpg: no valid OpenPGP data found.
+gpg: decrypt_message failed: Unknown system error
+tar (child): .tar.gz: Cannot open: No such file or directory
+tar (child): Error is not recoverable: exiting now
+tar: Child returned status 2
+tar: Error is not recoverable: exiting now
+rm: cannot remove '.tar.gz': No such file or directory
+rm: cannot remove '.tar.gz.gpg': No such file or directory
+gpg: no valid OpenPGP data found.
+gpg: decrypt_message failed: Unknown system error
+tar (child): .tar.gz: Cannot open: No such file or directory
+tar (child): Error is not recoverable: exiting now
+tar: Child returned status 2
+tar: Error is not recoverable: exiting now
+rm: cannot remove '.tar.gz': No such file or directory
+rm: cannot remove '.tar.gz.gpg': No such file or directory
+gpg: /lib: read error: Is a directory
+gpg: decrypt_message failed: Unknown system error
+tar (child): .tar.gz: Cannot open: No such file or directory
+tar (child): Error is not recoverable: exiting now
+tar: Child returned status 2
+tar: Error is not recoverable: exiting now
+rm: cannot remove '.tar.gz': No such file or directory
+rm: cannot remove '.tar.gz.gpg': No such file or directory
+gpg: /lib32: read error: Is a directory
+gpg: decrypt_message failed: Unknown system error
+tar (child): .tar.gz: Cannot open: No such file or directory
+tar (child): Error is not recoverable: exiting now
+tar: Child returned status 2
+tar: Error is not recoverable: exiting now
+rm: cannot remove '.tar.gz': No such file or directory
+rm: cannot remove '.tar.gz.gpg': No such file or directory
+gpg: /lib64: read error: Is a directory
+gpg: decrypt_message failed: Unknown system error
+tar (child): .tar.gz: Cannot open: No such file or directory
+tar (child): Error is not recoverable: exiting now
+tar: Child returned status 2
+tar: Error is not recoverable: exiting now
+rm: cannot remove '.tar.gz': No such file or directory
+rm: cannot remove '.tar.gz.gpg': No such file or directory
+gpg: /libx32: read error: Is a directory
+gpg: decrypt_message failed: Unknown system error
+tar (child): .tar.gz: Cannot open: No such file or directory
+tar (child): Error is not recoverable: exiting now
+tar: Child returned status 2
+tar: Error is not recoverable: exiting now
+rm: cannot remove '.tar.gz': No such file or directory
+rm: cannot remove '.tar.gz.gpg': No such file or directory
+gpg: /lost+found: read error: Is a directory
+gpg: decrypt_message failed: Unknown system error
+tar (child): .tar.gz: Cannot open: No such file or directory
+tar (child): Error is not recoverable: exiting now
+tar: Child returned status 2
+tar: Error is not recoverable: exiting now
+rm: cannot remove '.tar.gz': No such file or directory
+rm: cannot remove '.tar.gz.gpg': No such file or directory
+gpg: /media: read error: Is a directory
+gpg: decrypt_message failed: Unknown system error
+tar (child): .tar.gz: Cannot open: No such file or directory
+tar (child): Error is not recoverable: exiting now
+tar: Child returned status 2
+tar: Error is not recoverable: exiting now
+rm: cannot remove '.tar.gz': No such file or directory
+rm: cannot remove '.tar.gz.gpg': No such file or directory
+gpg: /mnt: read error: Is a directory
+gpg: decrypt_message failed: Unknown system error
+tar (child): .tar.gz: Cannot open: No such file or directory
+tar (child): Error is not recoverable: exiting now
+tar: Child returned status 2
+tar: Error is not recoverable: exiting now
+rm: cannot remove '.tar.gz': No such file or directory
+rm: cannot remove '.tar.gz.gpg': No such file or directory
+gpg: /opt: read error: Is a directory
+gpg: decrypt_message failed: Unknown system error
+tar (child): .tar.gz: Cannot open: No such file or directory
+tar (child): Error is not recoverable: exiting now
+tar: Child returned status 2
+tar: Error is not recoverable: exiting now
+rm: cannot remove '.tar.gz': No such file or directory
+rm: cannot remove '.tar.gz.gpg': No such file or directory
+gpg: /proc: read error: Is a directory
+gpg: decrypt_message failed: Unknown system error
+tar (child): .tar.gz: Cannot open: No such file or directory
+tar (child): Error is not recoverable: exiting now
+tar: Child returned status 2
+tar: Error is not recoverable: exiting now
+rm: cannot remove '.tar.gz': No such file or directory
+rm: cannot remove '.tar.gz.gpg': No such file or directory
+gpg: /root: read error: Is a directory
+gpg: decrypt_message failed: Unknown system error
+tar (child): .tar.gz: Cannot open: No such file or directory
+tar (child): Error is not recoverable: exiting now
+tar: Child returned status 2
+tar: Error is not recoverable: exiting now
+rm: cannot remove '.tar.gz': No such file or directory
+rm: cannot remove '.tar.gz.gpg': No such file or directory
+gpg: /run: read error: Is a directory
+gpg: decrypt_message failed: Unknown system error
+tar (child): .tar.gz: Cannot open: No such file or directory
+tar (child): Error is not recoverable: exiting now
+tar: Child returned status 2
+tar: Error is not recoverable: exiting now
+rm: cannot remove '.tar.gz': No such file or directory
+rm: cannot remove '.tar.gz.gpg': No such file or directory
+gpg: /Sat_06_Feb_2021_10_11_27_PM_EET: read error: Is a directory
+gpg: decrypt_message failed: Unknown system error
+tar (child): .tar.gz: Cannot open: No such file or directory
+tar (child): Error is not recoverable: exiting now
+tar: Child returned status 2
+tar: Error is not recoverable: exiting now
+rm: cannot remove '.tar.gz': No such file or directory
+rm: cannot remove '.tar.gz.gpg': No such file or directory
+gpg: /sbin: read error: Is a directory
+gpg: decrypt_message failed: Unknown system error
+tar (child): .tar.gz: Cannot open: No such file or directory
+tar (child): Error is not recoverable: exiting now
+tar: Child returned status 2
+tar: Error is not recoverable: exiting now
+rm: cannot remove '.tar.gz': No such file or directory
+rm: cannot remove '.tar.gz.gpg': No such file or directory
+gpg: /srv: read error: Is a directory
+gpg: decrypt_message failed: Unknown system error
+tar (child): .tar.gz: Cannot open: No such file or directory
+tar (child): Error is not recoverable: exiting now
+tar: Child returned status 2
+tar: Error is not recoverable: exiting now
+rm: cannot remove '.tar.gz': No such file or directory
+rm: cannot remove '.tar.gz.gpg': No such file or directory
+gpg: /sys: read error: Is a directory
+gpg: decrypt_message failed: Unknown system error
+tar (child): .tar.gz: Cannot open: No such file or directory
+tar (child): Error is not recoverable: exiting now
+tar: Child returned status 2
+tar: Error is not recoverable: exiting now
+rm: cannot remove '.tar.gz': No such file or directory
+rm: cannot remove '.tar.gz.gpg': No such file or directory
+gpg: /tmp: read error: Is a directory
+gpg: decrypt_message failed: Unknown system error
+tar (child): .tar.gz: Cannot open: No such file or directory
+tar (child): Error is not recoverable: exiting now
+tar: Child returned status 2
+tar: Error is not recoverable: exiting now
+rm: cannot remove '.tar.gz': No such file or directory
+rm: cannot remove '.tar.gz.gpg': No such file or directory
+gpg: /Tue_09_Feb_2021_12_42_01_AM_EET: read error: Is a directory
+gpg: decrypt_message failed: Unknown system error
+tar (child): .tar.gz: Cannot open: No such file or directory
+tar (child): Error is not recoverable: exiting now
+tar: Child returned status 2
+tar: Error is not recoverable: exiting now
+rm: cannot remove '.tar.gz': No such file or directory
+rm: cannot remove '.tar.gz.gpg': No such file or directory
+gpg: /Tue_09_Feb_2021_12_43_01_AM_EET: read error: Is a directory
+gpg: decrypt_message failed: Unknown system error
+tar (child): .tar.gz: Cannot open: No such file or directory
+tar (child): Error is not recoverable: exiting now
+tar: Child returned status 2
+tar: Error is not recoverable: exiting now
+rm: cannot remove '.tar.gz': No such file or directory
+rm: cannot remove '.tar.gz.gpg': No such file or directory
+gpg: /Tue_09_Feb_2021_12_44_01_AM_EET: read error: Is a directory
+gpg: decrypt_message failed: Unknown system error
+tar (child): .tar.gz: Cannot open: No such file or directory
+tar (child): Error is not recoverable: exiting now
+tar: Child returned status 2
+tar: Error is not recoverable: exiting now
+rm: cannot remove '.tar.gz': No such file or directory
+rm: cannot remove '.tar.gz.gpg': No such file or directory
+gpg: /usr: read error: Is a directory
+gpg: decrypt_message failed: Unknown system error
+tar (child): .tar.gz: Cannot open: No such file or directory
+tar (child): Error is not recoverable: exiting now
+tar: Child returned status 2
+tar: Error is not recoverable: exiting now
+rm: cannot remove '.tar.gz': No such file or directory
+rm: cannot remove '.tar.gz.gpg': No such file or directory
+gpg: /var: read error: Is a directory
+gpg: decrypt_message failed: Unknown system error
+tar (child): .tar.gz: Cannot open: No such file or directory
+tar (child): Error is not recoverable: exiting now
+tar: Child returned status 2
+tar: Error is not recoverable: exiting now
+rm: cannot remove '.tar.gz': No such file or directory
+rm: cannot remove '.tar.gz.gpg': No such file or directory
+gpg: no valid OpenPGP data found.
+gpg: decrypt_message failed: Unknown system error
+tar (child): .tar.gz: Cannot open: No such file or directory
+tar (child): Error is not recoverable: exiting now
+tar: Child returned status 2
+tar: Error is not recoverable: exiting now
+rm: cannot remove '.tar.gz': No such file or directory
+rm: cannot remove '.tar.gz.gpg': No such file or directory
+gpg: no valid OpenPGP data found.
+gpg: decrypt_message failed: Unknown system error
+tar (child): .tar.gz: Cannot open: No such file or directory
+tar (child): Error is not recoverable: exiting now
+tar: Child returned status 2
+tar: Error is not recoverable: exiting now
+rm: cannot remove '.tar.gz': No such file or directory
+rm: cannot remove '.tar.gz.gpg': No such file or directory
+gpg: can't open 'another_dir/Tue_09_Feb_2021_12_42_01_AM_EET.tar.gpg': No such file or directory
+gpg: decrypt_message failed: No such file or directory
+function.sh: line 109: cd: restore/temp: No such file or directory
+mkdir: cannot create directory ‘Tue_09_Feb_2021_12_42_01_AM_EET’: File exists
+tar: ../Tue_09_Feb_2021_12_42_01_AM_EET.tar: Cannot open: No such file or directory
+tar: Error is not recoverable: exiting now
+rm: cannot remove 'Tue_09_Feb_2021_12_42_01_AM_EET.tar': No such file or directory
+function.sh: line 119: cd: temp: No such file or directory
+gpg: can't open 'Tue_09_Feb_2021_12_42_01_AM_EET/*': No such file or directory
+gpg: decrypt_message failed: No such file or directory
+tar (child): .tar.gz: Cannot open: No such file or directory
+tar (child): Error is not recoverable: exiting now
+tar: Child returned status 2
+tar: Error is not recoverable: exiting now
+rm: cannot remove '.tar.gz': No such file or directory
+rm: cannot remove '.tar.gz.gpg': No such file or directory
+gpg: can't open 'another_dir/Tue_09_Feb_2021_12_43_01_AM_EET.tar.gpg': No such file or directory
+gpg: decrypt_message failed: No such file or directory
+function.sh: line 109: cd: restore/temp: No such file or directory
+mkdir: cannot create directory ‘Tue_09_Feb_2021_12_43_01_AM_EET’: File exists
+tar: ../Tue_09_Feb_2021_12_43_01_AM_EET.tar: Cannot open: No such file or directory
+tar: Error is not recoverable: exiting now
+rm: cannot remove 'Tue_09_Feb_2021_12_43_01_AM_EET.tar': No such file or directory
+function.sh: line 119: cd: temp: No such file or directory
+gpg: can't open 'Tue_09_Feb_2021_12_43_01_AM_EET/*': No such file or directory
+gpg: decrypt_message failed: No such file or directory
+tar (child): .tar.gz: Cannot open: No such file or directory
+tar (child): Error is not recoverable: exiting now
+tar: Child returned status 2
+tar: Error is not recoverable: exiting now
+rm: cannot remove '.tar.gz': No such file or directory
+rm: cannot remove '.tar.gz.gpg': No such file or directory
+gpg: can't open 'another_dir/Tue_09_Feb_2021_12_44_01_AM_EET.tar.gpg': No such file or directory
+gpg: decrypt_message failed: No such file or directory
+function.sh: line 109: cd: restore/temp: No such file or directory
+mkdir: cannot create directory ‘Tue_09_Feb_2021_12_44_01_AM_EET’: File exists
+tar: ../Tue_09_Feb_2021_12_44_01_AM_EET.tar: Cannot open: No such file or directory
+tar: Error is not recoverable: exiting now
+rm: cannot remove 'Tue_09_Feb_2021_12_44_01_AM_EET.tar': No such file or directory
+function.sh: line 119: cd: temp: No such file or directory
+gpg: can't open 'Tue_09_Feb_2021_12_44_01_AM_EET/*': No such file or directory
+gpg: decrypt_message failed: No such file or directory
+tar (child): .tar.gz: Cannot open: No such file or directory
+tar (child): Error is not recoverable: exiting now
+tar: Child returned status 2
+tar: Error is not recoverable: exiting now
+rm: cannot remove '.tar.gz': No such file or directory
+rm: cannot remove '.tar.gz.gpg': No such file or directory
+gpg: can't open 'another_dir/Tue_09_Feb_2021_12_45_01_AM_EET.tar.gpg': No such file or directory
+gpg: decrypt_message failed: No such file or directory
+function.sh: line 109: cd: restore/temp: No such file or directory
+tar: ../Tue_09_Feb_2021_12_45_01_AM_EET.tar: Cannot open: No such file or directory
+tar: Error is not recoverable: exiting now
+rm: cannot remove 'Tue_09_Feb_2021_12_45_01_AM_EET.tar': No such file or directory
+function.sh: line 119: cd: temp: No such file or directory
+gpg: can't open 'Tue_09_Feb_2021_12_45_01_AM_EET/*': No such file or directory
+gpg: decrypt_message failed: No such file or directory
+tar (child): .tar.gz: Cannot open: No such file or directory
+tar (child): Error is not recoverable: exiting now
+tar: Child returned status 2
+tar: Error is not recoverable: exiting now
+rm: cannot remove '.tar.gz': No such file or directory
+rm: cannot remove '.tar.gz.gpg': No such file or directory
+gpg: can't open 'another_dir/Tue_09_Feb_2021_12_46_01_AM_EET': No such file or directory
+gpg: decrypt_message failed: No such file or directory
+function.sh: line 109: cd: restore/temp: No such file or directory
+mkdir: missing operand
+Try 'mkdir --help' for more information.
+tar: ../.tar: Cannot open: No such file or directory
+tar: Error is not recoverable: exiting now
+rm: cannot remove '.tar': No such file or directory
+function.sh: line 119: cd: temp: No such file or directory
+gpg: /bin: read error: Is a directory
+gpg: decrypt_message failed: Unknown system error
+tar (child): .tar.gz: Cannot open: No such file or directory
+tar (child): Error is not recoverable: exiting now
+tar: Child returned status 2
+tar: Error is not recoverable: exiting now
+rm: cannot remove '.tar.gz': No such file or directory
+rm: cannot remove '.tar.gz.gpg': No such file or directory
+gpg: /boot: read error: Is a directory
+gpg: decrypt_message failed: Unknown system error
+tar (child): .tar.gz: Cannot open: No such file or directory
+tar (child): Error is not recoverable: exiting now
+tar: Child returned status 2
+tar: Error is not recoverable: exiting now
+rm: cannot remove '.tar.gz': No such file or directory
+rm: cannot remove '.tar.gz.gpg': No such file or directory
+gpg: /dev: read error: Is a directory
+gpg: decrypt_message failed: Unknown system error
+tar (child): .tar.gz: Cannot open: No such file or directory
+tar (child): Error is not recoverable: exiting now
+tar: Child returned status 2
+tar: Error is not recoverable: exiting now
+rm: cannot remove '.tar.gz': No such file or directory
+rm: cannot remove '.tar.gz.gpg': No such file or directory
+gpg: /etc: read error: Is a directory
+gpg: decrypt_message failed: Unknown system error
+tar (child): .tar.gz: Cannot open: No such file or directory
+tar (child): Error is not recoverable: exiting now
+tar: Child returned status 2
+tar: Error is not recoverable: exiting now
+rm: cannot remove '.tar.gz': No such file or directory
+rm: cannot remove '.tar.gz.gpg': No such file or directory
+gpg: /home: read error: Is a directory
+gpg: decrypt_message failed: Unknown system error
+tar (child): .tar.gz: Cannot open: No such file or directory
+tar (child): Error is not recoverable: exiting now
+tar: Child returned status 2
+tar: Error is not recoverable: exiting now
+rm: cannot remove '.tar.gz': No such file or directory
+rm: cannot remove '.tar.gz.gpg': No such file or directory
+gpg: no valid OpenPGP data found.
+gpg: decrypt_message failed: Unknown system error
+tar (child): .tar.gz: Cannot open: No such file or directory
+tar (child): Error is not recoverable: exiting now
+tar: Child returned status 2
+tar: Error is not recoverable: exiting now
+rm: cannot remove '.tar.gz': No such file or directory
+rm: cannot remove '.tar.gz.gpg': No such file or directory
+gpg: no valid OpenPGP data found.
+gpg: decrypt_message failed: Unknown system error
+tar (child): .tar.gz: Cannot open: No such file or directory
+tar (child): Error is not recoverable: exiting now
+tar: Child returned status 2
+tar: Error is not recoverable: exiting now
+rm: cannot remove '.tar.gz': No such file or directory
+rm: cannot remove '.tar.gz.gpg': No such file or directory
+gpg: /lib: read error: Is a directory
+gpg: decrypt_message failed: Unknown system error
+tar (child): .tar.gz: Cannot open: No such file or directory
+tar (child): Error is not recoverable: exiting now
+tar: Child returned status 2
+tar: Error is not recoverable: exiting now
+rm: cannot remove '.tar.gz': No such file or directory
+rm: cannot remove '.tar.gz.gpg': No such file or directory
+gpg: /lib32: read error: Is a directory
+gpg: decrypt_message failed: Unknown system error
+tar (child): .tar.gz: Cannot open: No such file or directory
+tar (child): Error is not recoverable: exiting now
+tar: Child returned status 2
+tar: Error is not recoverable: exiting now
+rm: cannot remove '.tar.gz': No such file or directory
+rm: cannot remove '.tar.gz.gpg': No such file or directory
+gpg: /lib64: read error: Is a directory
+gpg: decrypt_message failed: Unknown system error
+tar (child): .tar.gz: Cannot open: No such file or directory
+tar (child): Error is not recoverable: exiting now
+tar: Child returned status 2
+tar: Error is not recoverable: exiting now
+rm: cannot remove '.tar.gz': No such file or directory
+rm: cannot remove '.tar.gz.gpg': No such file or directory
+gpg: /libx32: read error: Is a directory
+gpg: decrypt_message failed: Unknown system error
+tar (child): .tar.gz: Cannot open: No such file or directory
+tar (child): Error is not recoverable: exiting now
+tar: Child returned status 2
+tar: Error is not recoverable: exiting now
+rm: cannot remove '.tar.gz': No such file or directory
+rm: cannot remove '.tar.gz.gpg': No such file or directory
+gpg: /lost+found: read error: Is a directory
+gpg: decrypt_message failed: Unknown system error
+tar (child): .tar.gz: Cannot open: No such file or directory
+tar (child): Error is not recoverable: exiting now
+tar: Child returned status 2
+tar: Error is not recoverable: exiting now
+rm: cannot remove '.tar.gz': No such file or directory
+rm: cannot remove '.tar.gz.gpg': No such file or directory
+gpg: /media: read error: Is a directory
+gpg: decrypt_message failed: Unknown system error
+tar (child): .tar.gz: Cannot open: No such file or directory
+tar (child): Error is not recoverable: exiting now
+tar: Child returned status 2
+tar: Error is not recoverable: exiting now
+rm: cannot remove '.tar.gz': No such file or directory
+rm: cannot remove '.tar.gz.gpg': No such file or directory
+gpg: /mnt: read error: Is a directory
+gpg: decrypt_message failed: Unknown system error
+tar (child): .tar.gz: Cannot open: No such file or directory
+tar (child): Error is not recoverable: exiting now
+tar: Child returned status 2
+tar: Error is not recoverable: exiting now
+rm: cannot remove '.tar.gz': No such file or directory
+rm: cannot remove '.tar.gz.gpg': No such file or directory
+gpg: /opt: read error: Is a directory
+gpg: decrypt_message failed: Unknown system error
+tar (child): .tar.gz: Cannot open: No such file or directory
+tar (child): Error is not recoverable: exiting now
+tar: Child returned status 2
+tar: Error is not recoverable: exiting now
+rm: cannot remove '.tar.gz': No such file or directory
+rm: cannot remove '.tar.gz.gpg': No such file or directory
+gpg: /proc: read error: Is a directory
+gpg: decrypt_message failed: Unknown system error
+tar (child): .tar.gz: Cannot open: No such file or directory
+tar (child): Error is not recoverable: exiting now
+tar: Child returned status 2
+tar: Error is not recoverable: exiting now
+rm: cannot remove '.tar.gz': No such file or directory
+rm: cannot remove '.tar.gz.gpg': No such file or directory
+gpg: /root: read error: Is a directory
+gpg: decrypt_message failed: Unknown system error
+tar (child): .tar.gz: Cannot open: No such file or directory
+tar (child): Error is not recoverable: exiting now
+tar: Child returned status 2
+tar: Error is not recoverable: exiting now
+rm: cannot remove '.tar.gz': No such file or directory
+rm: cannot remove '.tar.gz.gpg': No such file or directory
+gpg: /run: read error: Is a directory
+gpg: decrypt_message failed: Unknown system error
+tar (child): .tar.gz: Cannot open: No such file or directory
+tar (child): Error is not recoverable: exiting now
+tar: Child returned status 2
+tar: Error is not recoverable: exiting now
+rm: cannot remove '.tar.gz': No such file or directory
+rm: cannot remove '.tar.gz.gpg': No such file or directory
+gpg: /Sat_06_Feb_2021_10_11_27_PM_EET: read error: Is a directory
+gpg: decrypt_message failed: Unknown system error
+tar (child): .tar.gz: Cannot open: No such file or directory
+tar (child): Error is not recoverable: exiting now
+tar: Child returned status 2
+tar: Error is not recoverable: exiting now
+rm: cannot remove '.tar.gz': No such file or directory
+rm: cannot remove '.tar.gz.gpg': No such file or directory
+gpg: /sbin: read error: Is a directory
+gpg: decrypt_message failed: Unknown system error
+tar (child): .tar.gz: Cannot open: No such file or directory
+tar (child): Error is not recoverable: exiting now
+tar: Child returned status 2
+tar: Error is not recoverable: exiting now
+rm: cannot remove '.tar.gz': No such file or directory
+rm: cannot remove '.tar.gz.gpg': No such file or directory
+gpg: /srv: read error: Is a directory
+gpg: decrypt_message failed: Unknown system error
+tar (child): .tar.gz: Cannot open: No such file or directory
+tar (child): Error is not recoverable: exiting now
+tar: Child returned status 2
+tar: Error is not recoverable: exiting now
+rm: cannot remove '.tar.gz': No such file or directory
+rm: cannot remove '.tar.gz.gpg': No such file or directory
+gpg: /sys: read error: Is a directory
+gpg: decrypt_message failed: Unknown system error
+tar (child): .tar.gz: Cannot open: No such file or directory
+tar (child): Error is not recoverable: exiting now
+tar: Child returned status 2
+tar: Error is not recoverable: exiting now
+rm: cannot remove '.tar.gz': No such file or directory
+rm: cannot remove '.tar.gz.gpg': No such file or directory
+gpg: /tmp: read error: Is a directory
+gpg: decrypt_message failed: Unknown system error
+tar (child): .tar.gz: Cannot open: No such file or directory
+tar (child): Error is not recoverable: exiting now
+tar: Child returned status 2
+tar: Error is not recoverable: exiting now
+rm: cannot remove '.tar.gz': No such file or directory
+rm: cannot remove '.tar.gz.gpg': No such file or directory
+gpg: /Tue_09_Feb_2021_12_42_01_AM_EET: read error: Is a directory
+gpg: decrypt_message failed: Unknown system error
+tar (child): .tar.gz: Cannot open: No such file or directory
+tar (child): Error is not recoverable: exiting now
+tar: Child returned status 2
+tar: Error is not recoverable: exiting now
+rm: cannot remove '.tar.gz': No such file or directory
+rm: cannot remove '.tar.gz.gpg': No such file or directory
+gpg: /Tue_09_Feb_2021_12_43_01_AM_EET: read error: Is a directory
+gpg: decrypt_message failed: Unknown system error
+tar (child): .tar.gz: Cannot open: No such file or directory
+tar (child): Error is not recoverable: exiting now
+tar: Child returned status 2
+tar: Error is not recoverable: exiting now
+rm: cannot remove '.tar.gz': No such file or directory
+rm: cannot remove '.tar.gz.gpg': No such file or directory
+gpg: /Tue_09_Feb_2021_12_44_01_AM_EET: read error: Is a directory
+gpg: decrypt_message failed: Unknown system error
+tar (child): .tar.gz: Cannot open: No such file or directory
+tar (child): Error is not recoverable: exiting now
+tar: Child returned status 2
+tar: Error is not recoverable: exiting now
+rm: cannot remove '.tar.gz': No such file or directory
+rm: cannot remove '.tar.gz.gpg': No such file or directory
+gpg: /Tue_09_Feb_2021_12_45_01_AM_EET: read error: Is a directory
+gpg: decrypt_message failed: Unknown system error
+tar (child): .tar.gz: Cannot open: No such file or directory
+tar (child): Error is not recoverable: exiting now
+tar: Child returned status 2
+tar: Error is not recoverable: exiting now
+rm: cannot remove '.tar.gz': No such file or directory
+rm: cannot remove '.tar.gz.gpg': No such file or directory
+gpg: /usr: read error: Is a directory
+gpg: decrypt_message failed: Unknown system error
+tar (child): .tar.gz: Cannot open: No such file or directory
+tar (child): Error is not recoverable: exiting now
+tar: Child returned status 2
+tar: Error is not recoverable: exiting now
+rm: cannot remove '.tar.gz': No such file or directory
+rm: cannot remove '.tar.gz.gpg': No such file or directory
+gpg: /var: read error: Is a directory
+gpg: decrypt_message failed: Unknown system error
+tar (child): .tar.gz: Cannot open: No such file or directory
+tar (child): Error is not recoverable: exiting now
+tar: Child returned status 2
+tar: Error is not recoverable: exiting now
+rm: cannot remove '.tar.gz': No such file or directory
+rm: cannot remove '.tar.gz.gpg': No such file or directory
+gpg: no valid OpenPGP data found.
+gpg: decrypt_message failed: Unknown system error
+tar (child): .tar.gz: Cannot open: No such file or directory
+tar (child): Error is not recoverable: exiting now
+tar: Child returned status 2
+tar: Error is not recoverable: exiting now
+rm: cannot remove '.tar.gz': No such file or directory
+rm: cannot remove '.tar.gz.gpg': No such file or directory
+gpg: no valid OpenPGP data found.
+gpg: decrypt_message failed: Unknown system error
+tar (child): .tar.gz: Cannot open: No such file or directory
+tar (child): Error is not recoverable: exiting now
+tar: Child returned status 2
+tar: Error is not recoverable: exiting now
+rm: cannot remove '.tar.gz': No such file or directory
+rm: cannot remove '.tar.gz.gpg': No such file or directory
+gpg: can't open 'another_dir/Tue_09_Feb_2021_12_46_01_AM_EET.tar': No such file or directory
+gpg: decrypt_message failed: No such file or directory
+function.sh: line 109: cd: restore/temp: No such file or directory
+mkdir: missing operand
+Try 'mkdir --help' for more information.
+tar: ../.tar: Cannot open: No such file or directory
+tar: Error is not recoverable: exiting now
+rm: cannot remove '.tar': No such file or directory
+function.sh: line 119: cd: temp: No such file or directory
+gpg: /bin: read error: Is a directory
+gpg: decrypt_message failed: Unknown system error
+tar (child): .tar.gz: Cannot open: No such file or directory
+tar (child): Error is not recoverable: exiting now
+tar: Child returned status 2
+tar: Error is not recoverable: exiting now
+rm: cannot remove '.tar.gz': No such file or directory
+rm: cannot remove '.tar.gz.gpg': No such file or directory
+gpg: /boot: read error: Is a directory
+gpg: decrypt_message failed: Unknown system error
+tar (child): .tar.gz: Cannot open: No such file or directory
+tar (child): Error is not recoverable: exiting now
+tar: Child returned status 2
+tar: Error is not recoverable: exiting now
+rm: cannot remove '.tar.gz': No such file or directory
+rm: cannot remove '.tar.gz.gpg': No such file or directory
+gpg: /dev: read error: Is a directory
+gpg: decrypt_message failed: Unknown system error
+tar (child): .tar.gz: Cannot open: No such file or directory
+tar (child): Error is not recoverable: exiting now
+tar: Child returned status 2
+tar: Error is not recoverable: exiting now
+rm: cannot remove '.tar.gz': No such file or directory
+rm: cannot remove '.tar.gz.gpg': No such file or directory
+gpg: /etc: read error: Is a directory
+gpg: decrypt_message failed: Unknown system error
+tar (child): .tar.gz: Cannot open: No such file or directory
+tar (child): Error is not recoverable: exiting now
+tar: Child returned status 2
+tar: Error is not recoverable: exiting now
+rm: cannot remove '.tar.gz': No such file or directory
+rm: cannot remove '.tar.gz.gpg': No such file or directory
+gpg: /home: read error: Is a directory
+gpg: decrypt_message failed: Unknown system error
+tar (child): .tar.gz: Cannot open: No such file or directory
+tar (child): Error is not recoverable: exiting now
+tar: Child returned status 2
+tar: Error is not recoverable: exiting now
+rm: cannot remove '.tar.gz': No such file or directory
+rm: cannot remove '.tar.gz.gpg': No such file or directory
+gpg: no valid OpenPGP data found.
+gpg: decrypt_message failed: Unknown system error
+tar (child): .tar.gz: Cannot open: No such file or directory
+tar (child): Error is not recoverable: exiting now
+tar: Child returned status 2
+tar: Error is not recoverable: exiting now
+rm: cannot remove '.tar.gz': No such file or directory
+rm: cannot remove '.tar.gz.gpg': No such file or directory
+gpg: no valid OpenPGP data found.
+gpg: decrypt_message failed: Unknown system error
+tar (child): .tar.gz: Cannot open: No such file or directory
+tar (child): Error is not recoverable: exiting now
+tar: Child returned status 2
+tar: Error is not recoverable: exiting now
+rm: cannot remove '.tar.gz': No such file or directory
+rm: cannot remove '.tar.gz.gpg': No such file or directory
+gpg: /lib: read error: Is a directory
+gpg: decrypt_message failed: Unknown system error
+tar (child): .tar.gz: Cannot open: No such file or directory
+tar (child): Error is not recoverable: exiting now
+tar: Child returned status 2
+tar: Error is not recoverable: exiting now
+rm: cannot remove '.tar.gz': No such file or directory
+rm: cannot remove '.tar.gz.gpg': No such file or directory
+gpg: /lib32: read error: Is a directory
+gpg: decrypt_message failed: Unknown system error
+tar (child): .tar.gz: Cannot open: No such file or directory
+tar (child): Error is not recoverable: exiting now
+tar: Child returned status 2
+tar: Error is not recoverable: exiting now
+rm: cannot remove '.tar.gz': No such file or directory
+rm: cannot remove '.tar.gz.gpg': No such file or directory
+gpg: /lib64: read error: Is a directory
+gpg: decrypt_message failed: Unknown system error
+tar (child): .tar.gz: Cannot open: No such file or directory
+tar (child): Error is not recoverable: exiting now
+tar: Child returned status 2
+tar: Error is not recoverable: exiting now
+rm: cannot remove '.tar.gz': No such file or directory
+rm: cannot remove '.tar.gz.gpg': No such file or directory
+gpg: /libx32: read error: Is a directory
+gpg: decrypt_message failed: Unknown system error
+tar (child): .tar.gz: Cannot open: No such file or directory
+tar (child): Error is not recoverable: exiting now
+tar: Child returned status 2
+tar: Error is not recoverable: exiting now
+rm: cannot remove '.tar.gz': No such file or directory
+rm: cannot remove '.tar.gz.gpg': No such file or directory
+gpg: /lost+found: read error: Is a directory
+gpg: decrypt_message failed: Unknown system error
+tar (child): .tar.gz: Cannot open: No such file or directory
+tar (child): Error is not recoverable: exiting now
+tar: Child returned status 2
+tar: Error is not recoverable: exiting now
+rm: cannot remove '.tar.gz': No such file or directory
+rm: cannot remove '.tar.gz.gpg': No such file or directory
+gpg: /media: read error: Is a directory
+gpg: decrypt_message failed: Unknown system error
+tar (child): .tar.gz: Cannot open: No such file or directory
+tar (child): Error is not recoverable: exiting now
+tar: Child returned status 2
+tar: Error is not recoverable: exiting now
+rm: cannot remove '.tar.gz': No such file or directory
+rm: cannot remove '.tar.gz.gpg': No such file or directory
+gpg: /mnt: read error: Is a directory
+gpg: decrypt_message failed: Unknown system error
+tar (child): .tar.gz: Cannot open: No such file or directory
+tar (child): Error is not recoverable: exiting now
+tar: Child returned status 2
+tar: Error is not recoverable: exiting now
+rm: cannot remove '.tar.gz': No such file or directory
+rm: cannot remove '.tar.gz.gpg': No such file or directory
+gpg: /opt: read error: Is a directory
+gpg: decrypt_message failed: Unknown system error
+tar (child): .tar.gz: Cannot open: No such file or directory
+tar (child): Error is not recoverable: exiting now
+tar: Child returned status 2
+tar: Error is not recoverable: exiting now
+rm: cannot remove '.tar.gz': No such file or directory
+rm: cannot remove '.tar.gz.gpg': No such file or directory
+gpg: /proc: read error: Is a directory
+gpg: decrypt_message failed: Unknown system error
+tar (child): .tar.gz: Cannot open: No such file or directory
+tar (child): Error is not recoverable: exiting now
+tar: Child returned status 2
+tar: Error is not recoverable: exiting now
+rm: cannot remove '.tar.gz': No such file or directory
+rm: cannot remove '.tar.gz.gpg': No such file or directory
+gpg: /root: read error: Is a directory
+gpg: decrypt_message failed: Unknown system error
+tar (child): .tar.gz: Cannot open: No such file or directory
+tar (child): Error is not recoverable: exiting now
+tar: Child returned status 2
+tar: Error is not recoverable: exiting now
+rm: cannot remove '.tar.gz': No such file or directory
+rm: cannot remove '.tar.gz.gpg': No such file or directory
+gpg: /run: read error: Is a directory
+gpg: decrypt_message failed: Unknown system error
+tar (child): .tar.gz: Cannot open: No such file or directory
+tar (child): Error is not recoverable: exiting now
+tar: Child returned status 2
+tar: Error is not recoverable: exiting now
+rm: cannot remove '.tar.gz': No such file or directory
+rm: cannot remove '.tar.gz.gpg': No such file or directory
+gpg: /Sat_06_Feb_2021_10_11_27_PM_EET: read error: Is a directory
+gpg: decrypt_message failed: Unknown system error
+tar (child): .tar.gz: Cannot open: No such file or directory
+tar (child): Error is not recoverable: exiting now
+tar: Child returned status 2
+tar: Error is not recoverable: exiting now
+rm: cannot remove '.tar.gz': No such file or directory
+rm: cannot remove '.tar.gz.gpg': No such file or directory
+gpg: /sbin: read error: Is a directory
+gpg: decrypt_message failed: Unknown system error
+tar (child): .tar.gz: Cannot open: No such file or directory
+tar (child): Error is not recoverable: exiting now
+tar: Child returned status 2
+tar: Error is not recoverable: exiting now
+rm: cannot remove '.tar.gz': No such file or directory
+rm: cannot remove '.tar.gz.gpg': No such file or directory
+gpg: /srv: read error: Is a directory
+gpg: decrypt_message failed: Unknown system error
+tar (child): .tar.gz: Cannot open: No such file or directory
+tar (child): Error is not recoverable: exiting now
+tar: Child returned status 2
+tar: Error is not recoverable: exiting now
+rm: cannot remove '.tar.gz': No such file or directory
+rm: cannot remove '.tar.gz.gpg': No such file or directory
+gpg: /sys: read error: Is a directory
+gpg: decrypt_message failed: Unknown system error
+tar (child): .tar.gz: Cannot open: No such file or directory
+tar (child): Error is not recoverable: exiting now
+tar: Child returned status 2
+tar: Error is not recoverable: exiting now
+rm: cannot remove '.tar.gz': No such file or directory
+rm: cannot remove '.tar.gz.gpg': No such file or directory
+gpg: /tmp: read error: Is a directory
+gpg: decrypt_message failed: Unknown system error
+tar (child): .tar.gz: Cannot open: No such file or directory
+tar (child): Error is not recoverable: exiting now
+tar: Child returned status 2
+tar: Error is not recoverable: exiting now
+rm: cannot remove '.tar.gz': No such file or directory
+rm: cannot remove '.tar.gz.gpg': No such file or directory
+gpg: /Tue_09_Feb_2021_12_42_01_AM_EET: read error: Is a directory
+gpg: decrypt_message failed: Unknown system error
+tar (child): .tar.gz: Cannot open: No such file or directory
+tar (child): Error is not recoverable: exiting now
+tar: Child returned status 2
+tar: Error is not recoverable: exiting now
+rm: cannot remove '.tar.gz': No such file or directory
+rm: cannot remove '.tar.gz.gpg': No such file or directory
+gpg: /Tue_09_Feb_2021_12_43_01_AM_EET: read error: Is a directory
+gpg: decrypt_message failed: Unknown system error
+tar (child): .tar.gz: Cannot open: No such file or directory
+tar (child): Error is not recoverable: exiting now
+tar: Child returned status 2
+tar: Error is not recoverable: exiting now
+rm: cannot remove '.tar.gz': No such file or directory
+rm: cannot remove '.tar.gz.gpg': No such file or directory
+gpg: /Tue_09_Feb_2021_12_44_01_AM_EET: read error: Is a directory
+gpg: decrypt_message failed: Unknown system error
+tar (child): .tar.gz: Cannot open: No such file or directory
+tar (child): Error is not recoverable: exiting now
+tar: Child returned status 2
+tar: Error is not recoverable: exiting now
+rm: cannot remove '.tar.gz': No such file or directory
+rm: cannot remove '.tar.gz.gpg': No such file or directory
+gpg: /Tue_09_Feb_2021_12_45_01_AM_EET: read error: Is a directory
+gpg: decrypt_message failed: Unknown system error
+tar (child): .tar.gz: Cannot open: No such file or directory
+tar (child): Error is not recoverable: exiting now
+tar: Child returned status 2
+tar: Error is not recoverable: exiting now
+rm: cannot remove '.tar.gz': No such file or directory
+rm: cannot remove '.tar.gz.gpg': No such file or directory
+gpg: /usr: read error: Is a directory
+gpg: decrypt_message failed: Unknown system error
+tar (child): .tar.gz: Cannot open: No such file or directory
+tar (child): Error is not recoverable: exiting now
+tar: Child returned status 2
+tar: Error is not recoverable: exiting now
+rm: cannot remove '.tar.gz': No such file or directory
+rm: cannot remove '.tar.gz.gpg': No such file or directory
+gpg: /var: read error: Is a directory
+gpg: decrypt_message failed: Unknown system error
+tar (child): .tar.gz: Cannot open: No such file or directory
+tar (child): Error is not recoverable: exiting now
+tar: Child returned status 2
+tar: Error is not recoverable: exiting now
+rm: cannot remove '.tar.gz': No such file or directory
+rm: cannot remove '.tar.gz.gpg': No such file or directory
+gpg: no valid OpenPGP data found.
+gpg: decrypt_message failed: Unknown system error
+tar (child): .tar.gz: Cannot open: No such file or directory
+tar (child): Error is not recoverable: exiting now
+tar: Child returned status 2
+tar: Error is not recoverable: exiting now
+rm: cannot remove '.tar.gz': No such file or directory
+rm: cannot remove '.tar.gz.gpg': No such file or directory
+gpg: no valid OpenPGP data found.
+gpg: decrypt_message failed: Unknown system error
+tar (child): .tar.gz: Cannot open: No such file or directory
+tar (child): Error is not recoverable: exiting now
+tar: Child returned status 2
+tar: Error is not recoverable: exiting now
+rm: cannot remove '.tar.gz': No such file or directory
+rm: cannot remove '.tar.gz.gpg': No such file or directory

@@ -1,0 +1,49 @@
+gpg: AES256 encrypted data
+gpg: encrypted with 1 passphrase
+mkdir: cannot create directory ‘Mon_08_Feb_2021_10_28_08_PM_EET’: File exists
+gpg: Mon_08_Feb_2021_10_28_08_PM_EET/exer: read error: Is a directory
+gpg: decrypt_message failed: Unknown system error
+tar (child): .tar.gz: Cannot open: No such file or directory
+tar (child): Error is not recoverable: exiting now
+tar: Child returned status 2
+tar: Error is not recoverable: exiting now
+rm: cannot remove '.tar.gz': No such file or directory
+rm: cannot remove '.tar.gz.gpg': No such file or directory
+gpg: AES256 encrypted data
+gpg: encrypted with 1 passphrase
+gpg: no valid OpenPGP data found.
+gpg: decrypt_message failed: Unknown system error
+tar (child): .tar.gz: Cannot open: No such file or directory
+tar (child): Error is not recoverable: exiting now
+tar: Child returned status 2
+tar: Error is not recoverable: exiting now
+rm: cannot remove '.tar.gz': No such file or directory
+rm: cannot remove '.tar.gz.gpg': No such file or directory
+gpg: no valid OpenPGP data found.
+gpg: decrypt_message failed: Unknown system error
+tar (child): .tar.gz: Cannot open: No such file or directory
+tar (child): Error is not recoverable: exiting now
+tar: Child returned status 2
+tar: Error is not recoverable: exiting now
+rm: cannot remove '.tar.gz': No such file or directory
+rm: cannot remove '.tar.gz.gpg': No such file or directory
+gpg: AES256 encrypted data
+gpg: encrypted with 1 passphrase
+gpg: AES256 encrypted data
+gpg: encrypted with 1 passphrase
+gpg: AES256 encrypted data
+gpg: encrypted with 1 passphrase
+gpg: AES256 encrypted data
+gpg: encrypted with 1 passphrase
+gpg: AES256 encrypted data
+gpg: encrypted with 1 passphrase
+gpg: AES256 encrypted data
+gpg: encrypted with 1 passphrase
+gpg: AES256 encrypted data
+gpg: encrypted with 1 passphrase
+gpg: AES256 encrypted data
+gpg: encrypted with 1 passphrase
+gpg: AES256 encrypted data
+gpg: encrypted with 1 passphrase
+gpg: AES256 encrypted data
+gpg: encrypted with 1 passphrase
